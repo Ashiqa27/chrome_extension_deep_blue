@@ -4,10 +4,10 @@
   "version": "0.0.1",
   "browser_action": {
     "default_popup": "popup.html",
-    "default_icon": "blue.png"
+    "default_icon": "update_deep_blue_logo.png"
   },
   "icons": {
-    "128": "blue.png"
+    "128": "update_deep_blue_logo.png"
   },
   "permissions": ["activeTab"]
 }
