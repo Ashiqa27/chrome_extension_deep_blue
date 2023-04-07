@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "SUMMATRONICS",
+  "version": "0.0.1",
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "blue.png"
+  },
+  "icons": {
+    "128": "blue.png"
+  },
+  "permissions": ["activeTab"]
+}
